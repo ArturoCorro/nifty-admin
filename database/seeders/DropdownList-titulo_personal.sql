@@ -1,0 +1,16 @@
+INSERT INTO dropdown_lists (label, singular, `order`) VALUES
+  ('titulo_personal', 'Sr.', 5),
+  ('titulo_personal', 'Joven', 4),
+  ('titulo_personal', 'Srta.', 6),
+  ('titulo_personal', 'Sra.', 7),
+  ('titulo_personal', 'Lic.', 8),
+  ('titulo_personal', 'Dr.', 9),
+  ('titulo_personal', 'Dra.', 10),
+  ('titulo_personal', 'C.P.', 11),
+  ('titulo_personal', 'Ing.', 12),
+  ('titulo_personal', 'Arq.', 13),
+  ('titulo_personal', 'Prof.', 14),
+  ('titulo_personal', 'Mtra.', 15),
+  ('titulo_personal', 'Mae.', 16),
+  ('titulo_personal', 'Niño', 2),
+  ('titulo_personal', 'Niña', 3);
